@@ -12,10 +12,6 @@ This way the Virtual Agent can query the IMDb and search for relevant content to
 
 ## Short Video
 
-
-
-## Authors
-
 SolutionAuthor(s)
 -----------------
 My friendly Copilot and me.
