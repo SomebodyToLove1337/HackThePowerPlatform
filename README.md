@@ -7,8 +7,7 @@ Small PowerPlatform application in which a few movies in a dataverse database we
 This way the Virtual Agent can query the IMDb and search for relevant content to movies.
 
 ### Supported Language(s)
-
-[English](.en-usprompt.md)
+English
 
 ## Short Video
 
