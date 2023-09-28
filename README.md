@@ -1,6 +1,6 @@
 # HackTheMovieDB
-Microsoft Hack Together Power Platform with AI
-https://devblogs.microsoft.com/powerplatform/hack-together-the-power-platform-ai-global-hack/
+A Microsoft HackTogether Event:
+[Hack Together: The Power Platform AI Global Hack](https://devblogs.microsoft.com/powerplatform/hack-together-the-power-platform-ai-global-hack/)
 
 ## Description
 Small PowerPlatform application in which a few movies in a dataverse database were pulled from IMDb by the copilot. After that a custom user rating was added and a virtual agent was connected to the IMDb. 
