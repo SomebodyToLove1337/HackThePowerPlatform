@@ -13,6 +13,6 @@ English
 https://github.com/SomebodyToLove1337/HackThePowerPlatform/assets/68236595/f7228375-7ba3-4941-a04b-b17f4905609a
 
 ## Creators 🚀
-[SomebodyToLove1337](https://github.com/SomebodyToLove1337)
 
-[maxhe87](https://github.com/maxhe87)
+[SomebodyToLove1337](https://github.com/SomebodyToLove1337)     
+[maxhe87](https://github.com/maxhe87)  
