@@ -14,4 +14,5 @@ https://github.com/SomebodyToLove1337/HackThePowerPlatform/assets/68236595/f7228
 
 ## Creators 🚀
 [SomebodyToLove1337](https://github.com/SomebodyToLove1337)
+
 [maxhe87](https://github.com/maxhe87)
